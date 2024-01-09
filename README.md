@@ -1,3 +1,7 @@
+
+<img width="1280" alt="nft preview" src="https://github.com/itsakashtripathi/nft_nextjs/assets/98697978/6abb9932-606a-4e3d-ac0e-1af184fa18ab">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
