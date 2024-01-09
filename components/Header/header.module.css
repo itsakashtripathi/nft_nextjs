@@ -1,0 +1,9 @@
+.borderStyle {
+    border-bottom-width: 0.1px !important;
+    border-color: #c2d4f831 !important;
+}
+
+.navItem:hover {
+    color: #ffd607 !important;
+    transition: all 0.7s ease-in-out; 
+}
